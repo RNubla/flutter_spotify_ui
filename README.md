@@ -1,5 +1,6 @@
 # flutter_spotify_ui
 
+Complete Marcus Ng Flutter Tutorial [Video](https://www.youtube.com/watch?v=HJ1AlSrgZVQ)
 A new Flutter project.
 
 ## Getting Started
